@@ -2,7 +2,7 @@ kind: Service
 apiVersion: v1
 metadata:
  name: dsc-ambulance-webapi
-spec:  
+spec:
  type: NodePort
  ports:
  - name: http
