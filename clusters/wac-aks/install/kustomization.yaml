@@ -9,7 +9,7 @@ commonLabels:
 
 resources:
  - ../../../apps/dsc-ambulance-ufe
-
+ - ../../../apps/dsc-ambulance-webapi
 
 components:
  - ../../../components/version-release
